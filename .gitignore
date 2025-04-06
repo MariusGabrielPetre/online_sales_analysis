@@ -1,3 +1,14 @@
+# Ignoră fișierul config.json
+config.json
+
+# Ignoră capturile de ecran
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
