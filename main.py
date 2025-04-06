@@ -1,5 +1,7 @@
 from product import Product
 from product_manager import ProductManager
+from cart import Cart
+
 
 manager = ProductManager()
 manager.add_product(Product("Laptop", 1500, 5))
